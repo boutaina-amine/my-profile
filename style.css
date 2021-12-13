@@ -1,0 +1,78 @@
+h1{
+	color: #f1b8ff;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+h2{
+	color: #9e1580;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+p{
+	color: black;
+	font-size: 14px;
+	font-family: cursive;
+}
+
+
+
+.container{
+	margin: 10px;
+}
+
+.img-circle{
+	border-radius: 45%;
+}
+
+.img-bordered{
+	border: 3px inset #f1b8ff 
+}
+
+
+#button {
+    text-decoration: none;
+    background-color: pink;
+    padding:9px;
+}
+
+#button:hover{
+	background-color: purple;
+	color: white;
+}
+
+.container{
+	width: 800px;
+	margin: 40px auto;
+	background-color: white;
+}
+
+.card-white{
+	background-color: white;
+	padding:50px;
+	border-radius:4px;
+	box-shadow:0px 15px 35px grey;
+	margin: 40px;
+	text-align: center;
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: Opx;
+}
+
+.list-inline li{
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i{
+	font-size: 30px;
+	color: black; 
+}
+
+
+#intro p{
+	margin-bottom: 40px;
+}
